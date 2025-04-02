@@ -4,8 +4,6 @@ This is an Angular-based web application developed as part of COMP3133 Assignmen
 
 Installation & Setup
 
-Prerequisites
-Ensure you have the following installed on your system:
 
 Node.js (v16 or later)
 Angular CLI (npm install -g @angular/cli)
@@ -22,9 +20,8 @@ Technologies Used
 
 Angular (Frontend framework)
 TypeScript (Programming language)
-Bootstrap (Styling framework, if used)
 Node.js & npm (Package manager)
-Features
+
 
 
 
